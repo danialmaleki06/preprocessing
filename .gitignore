@@ -1,0 +1,34 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code local config (содержит локальные пути и имя пользователя)
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data — too big for git, only keep folder structure
+data/*
+!data/.gitkeep
