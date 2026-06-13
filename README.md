@@ -19,7 +19,6 @@
   <a href="#quickstart">Быстрый старт</a> ·
   <a href="#no-leak">Без утечки</a> ·
   <a href="#install">Установка</a> ·
-  <a href="#roadmap">Roadmap</a>
 </p>
 
 ---
