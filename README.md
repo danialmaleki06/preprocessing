@@ -14,10 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="#why">Зачем</a> ·
   <a href="#features">Возможности</a> ·
   <a href="#quickstart">Быстрый старт</a> ·
-  <a href="#no-leak">Без утечки</a> ·
   <a href="#install">Установка</a>
 </p>
 
